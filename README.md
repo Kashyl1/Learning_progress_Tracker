@@ -10,7 +10,8 @@ The application also performs some statistics to obtain information, e.g. about 
 - Java
 
 
-Example session of application:
+Sample application session
+
 
 ```
 Learning Progress Tracker
