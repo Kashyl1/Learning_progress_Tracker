@@ -10,9 +10,8 @@ The application also performs some statistics to obtain information, e.g. about 
 - Java
 
 
-Sample application session
 
-
+Sample application session:
 ```
 Learning Progress Tracker
 > add students
